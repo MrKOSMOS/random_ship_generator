@@ -1,4 +1,4 @@
-# Roguelike shmup game style
+# Roguelike procedurally generated shmup game style
 Show a lot of small random pictures to explore ideas.
 
 ![Demo](https://github.com/f2d/random_ship_generator/raw/master/demo.gif)
