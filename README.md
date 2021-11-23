@@ -10,7 +10,7 @@ Sources:
 ‐---------------------#-####--#-----'zzzzzzzzzzzz-----------
 
 https://en.m.wikipedia.org/wiki/Shepard_tone
-For progressive intensity buildup, bgm keys can move up in keys that correspond to shepard tones
+For progressive intensity buildup, bgm can progressively from level to level move up in key pitch in a way that corresponds to shepard tones
 
 https://en.m.wikipedia.org/wiki/Generative_music#:~:text=Generative%20music%20is%20a%20term,is%20created%20by%20a%20system
 
