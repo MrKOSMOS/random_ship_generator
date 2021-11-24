@@ -15,3 +15,6 @@ For progressive intensity buildup, bgm can progressively from level to level mov
 https://en.m.wikipedia.org/wiki/Generative_music#:~:text=Generative%20music%20is%20a%20term,is%20created%20by%20a%20system
 
 hopefully a reverse GAN or sth can generate a continuous stream of enemy behaviour and obstacles/animation locations based on training with other shmups
+
+https://gamedev.stackexchange.com/questions/17859/how-to-write-ai-bots-that-can-autoplay-a-shoot-em-up-game
+
