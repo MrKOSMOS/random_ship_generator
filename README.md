@@ -18,3 +18,6 @@ hopefully a reverse GAN or sth can generate a continuous stream of enemy behavio
 
 https://gamedev.stackexchange.com/questions/17859/how-to-write-ai-bots-that-can-autoplay-a-shoot-em-up-game
 
+https://nv-tlabs.github.io/gameGAN/
+
+http://www.gvgai.net/
