@@ -21,3 +21,5 @@ https://gamedev.stackexchange.com/questions/17859/how-to-write-ai-bots-that-can-
 https://nv-tlabs.github.io/gameGAN/
 
 http://www.gvgai.net/
+
+https://graphics.c.u-tokyo.ac.jp/hp/en/archives/790
