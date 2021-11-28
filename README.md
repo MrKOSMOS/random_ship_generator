@@ -23,3 +23,6 @@ https://nv-tlabs.github.io/gameGAN/
 http://www.gvgai.net/
 
 https://graphics.c.u-tokyo.ac.jp/hp/en/archives/790
+
+https://lospec.com/procedural-pixel-art-generator/
+
