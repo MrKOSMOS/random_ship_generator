@@ -26,3 +26,5 @@ https://graphics.c.u-tokyo.ac.jp/hp/en/archives/790
 
 https://lospec.com/procedural-pixel-art-generator/
 
+https://github.com/Mawiszus/TOAD-GAN
+ this one
